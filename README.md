@@ -1,1 +1,1 @@
-# Pricing--Card-Challenge-Frontend-Mentor-
+# Pricing--Card-Challenge-Frontend-Mentor
